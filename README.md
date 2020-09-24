@@ -1,2 +1,2 @@
-# CB
-Project 24
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
